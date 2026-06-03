@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\.gradle\\daemon\\8.5\\com.mjarthur.scanner.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Michael\\.gradle\\daemon\\8.5\\com.mjarthur.scanner.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.mjarthur.scanner.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.mjarthur.scanner.app-main-39:/layout/activity_main.xml"
+    }
+]
