@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">ScannerApp</string>
-    <style name="Theme.ScannerApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar"/>
-</resources>
